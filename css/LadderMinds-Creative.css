@@ -184,6 +184,10 @@ header {
     -o-background-size: cover;
 }
 
+.clip-header {
+    background-image: url(../img/clip_header.jpg);
+}
+
 header .header-content {
     position: relative;
     width: 100%;
