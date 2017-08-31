@@ -176,6 +176,10 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
+}
+
+.index-header{
+    background-image: url(../img/header.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -183,12 +187,13 @@ header {
     -o-background-size: cover;
 }
 
-.index-header{
-    background-image: url(../img/header.jpg);
-}
-
 .clip-header {
     background-image: url(../img/clip_header.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 header .header-content {
